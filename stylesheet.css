@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image:progate_test.png;
+  background-image:"progate_test.png";
   background-size: cover;
   color: white;
   text-align: center;
